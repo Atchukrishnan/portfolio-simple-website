@@ -20,13 +20,13 @@ Ensure you have a web browser to view the website.
 
 ### Installation
 1. Clone the repository:
-   ```sh
-   git clone 
-   ```
+   
+   git clone https://github.com/atchukrishnan/portfolio-simple-website.git  
+   
 2. Navigate to the project folder:
-   ```sh
-   cd 
-   ```
+  
+   cd portfolio-simple-website  
+  
 3. Open `index.html` in your browser.
 
 ## Usage
